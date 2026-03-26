@@ -11,7 +11,7 @@
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 <h2 align="left">
-  hyy!, I'm alastor
+  hyy!, I'm yeabsra
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
@@ -20,13 +20,11 @@ A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hun
 <details>
   <summary>More about me</summary>
   
-- **Name**: alastor
-- **From**: India
-- **Bug Hunter** | **Security Researcher** | **penetration tester**
-- i have experience in **Bug Hunter**,**penetration testing**,**Social engineering**,**Security Research**
+- **Name**: yeabsra
+- **From**: Ethiopia
+- **Bug Hunter** **Full-Stack Developer (MERN, FastAPI)** **Aspiring AI Engineer** **penetration tester**
+- i have experience in **Bug Hunter**,**penetration testing**,full stack developing,AI agent
 - Improving knowledge in **Webapp Vulnerabilities**
-- Lifelong learner — always exploring **everything**
-- Reach me out at **samael.islies@gmail.com**
 </details>
 <br>
 
@@ -38,13 +36,13 @@ A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hun
 
 👉 Still Learning Bug hunting & penetration testing.
 
-👉 Writing Some Useful Tools For Myself & Communities
+👉 working on AI and machine learning,automation
 
 👉 Building & Contributing To Open Source Projects
 
-👉 Currently Learning mobile pentesting & web3 
+👉 Currently Learning AI engineer, AI penetraion testing,blockchain
 
-`Updating:`  Journey to Cybersecurity Specialist.
+`Updating:`  
 
 ---
 
@@ -84,13 +82,6 @@ A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hun
 </div>
 
 ---
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=D1lie&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/D1lie/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/D1lie/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1lie&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-
 <br><br>
 
 <h2 id="donate" align=''> Support⚡️</h2>
