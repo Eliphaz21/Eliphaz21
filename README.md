@@ -11,7 +11,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in penetration testing, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I’m a Software Engineering student who enjoys building things and breaking them (ethically) to understand how they work.
+
+My interests sit at the intersection of software development, cybersecurity, and AI. I build web applications and APIs, explore web vulnerabilities through CTF challenges and penetration testing, and continue learning how AI systems are designed and deployed.
+
+Currently working as an AI & Software Development Intern, where I’m gaining hands-on experience building and improving real-world systems.
+
+Tech I often work with include Python, FastAPI, MERN stack, REST APIs, and PostgreSQL. On the security side, I practice web testing with tools like Burp Suite, Nmap, and Metasploit while learning secure-by-design development.
+
+I enjoy exploring complex systems, reproducing bugs, and turning problems into practical solutions.
+
+Always open to learning, collaborating, and building useful technology.
+
+If you're working on interesting projects in AI, software engineering, or cybersecurity — let’s connect.
 
 <details>
   <summary>More about me</summary>
