@@ -118,28 +118,14 @@ If you're working on interesting projects in AI, software engineering, or cybers
   </div>
 
 </div>
-
 ---
 <br><br>
 
-<h2 id="donate" align=''> Support⚡️</h2>
+<h2 id="donate" align=''> Support</h2>
 
 <details>
 <summary>Buy Me A Coffee</summary>
 
 <a href="https://buymeacoffee.com/d1lie" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 </details>
 
-
-
-
-<p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
-</p>
-<p align="center">
-<a>🌱</a>
-</p>
-<p align="center">
-  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
