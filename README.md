@@ -91,11 +91,9 @@ If you're working on interesting projects in AI, software engineering, or cybers
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&color=000000" alt="TypeScript" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
-        
         <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
         <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&color=000000" alt="Fast API" />
-
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&color=000000" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Architecture-Microservices-6B3FA0?style=for-the-badge" alt="Microservices Architecture" />
