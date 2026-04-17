@@ -101,13 +101,11 @@ If you're working on interesting projects in AI, software engineering, or cybers
   <div style="border: 2px solid #8B5CF6; border-radius: 10px; padding: 20px;">
 <h3 align="center">AI, Machine Learning & Agentic Systems</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&color=000000" alt="OpenAI" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&color=000000" alt="PyTorch" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=000000" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black&color=000000" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&color=000000" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&color=000000" alt="Pandas" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=000000" alt="OpenCV" />
 <img src="https://img.shields.io/badge/Ollama-ED5C5C?style=for-the-badge&logo=ollama&logoColor=white&color=000000" alt="Ollama" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&color=000000" alt="LangChain" />
 <img src="https://img.shields.io/badge/Architectures-RAG-22F700?style=for-the-badge" alt="RAG" />
