@@ -24,18 +24,6 @@ I enjoy exploring complex systems, reproducing bugs, and turning problems into p
 Always open to learning, collaborating, and building useful technology.
 
 If you're working on interesting projects in AI, software engineering, or cybersecurity — let’s connect.
-
-<details>
-  <summary>More about me</summary>
-  
-- **Name**: yeabsra
-- **From**: Ethiopia
-- **Bug Hunter** **Full-Stack Developer (MERN, FastAPI)** **Aspiring AI Engineer** **penetration tester**
-- i have experience in **Bug Hunter**,**penetration testing**,full stack developing,AI agent
-- Improving knowledge in **Webapp Vulnerabilities**
-</details>
-<br>
-
 ---
 
 <h2 id="present_status"> Present Status </h3>
