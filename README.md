@@ -30,13 +30,13 @@ If you're working on interesting projects in AI, software engineering, or cybers
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & penetration testing.
+ Still Learning Bug hunting & penetration testing.
 
-👉 working on AI and machine learning,automation,ai agent,open claw
+ working on AI and machine learning,automation,ai agent,open claw
 
-👉 Building & Contributing To Open Source Projects,full satck deveoping
+ Building & Contributing To Open Source Projects,full satck deveoping
 
-👉 Currently Learning AI engineer, AI penetraion testing,Machine learning
+ Currently Learning AI engineer, AI penetraion testing,Machine learning
 
 `Updating:`  
 
