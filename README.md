@@ -22,8 +22,6 @@ Tech I often work with include Python, FastAPI, MERN stack,and PostgreSQL. On th
 I enjoy exploring complex systems, reproducing bugs, and turning problems into practical solutions.
 
 Always open to learning, collaborating, and building useful technology.
-
-If you're working on interesting projects in AI, software engineering, or cybersecurity — let’s connect.
 ---
 
 <h2 id="present_status"> Present Status </h3>
