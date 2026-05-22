@@ -18,6 +18,7 @@ My interests sit at the intersection of software development, cybersecurity, and
 Currently working as an AI & Software Development Intern, where I’m gaining hands-on experience building and improving real-world systems.
 
 Tech I often work with include Python, FastAPI, MERN stack,and PostgreSQL. On the security side, I practice web testing with tools like Burp Suite, Nmap, and Metasploit while learning secure-by-design development.
+
 ---
 
 <h2 id="present_status"> Present Status </h3>
