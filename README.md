@@ -40,14 +40,6 @@ Tech I often work with include Python, FastAPI, MERN stack,and PostgreSQL. On th
 
 <br>
 
-<div class="skills-container" style="display: flex; flex-direction: column; gap: 30px;">
-
-  <div style="border: 2px solid #14B8A6; border-radius: 10px; padding: 20px;">
-    <h3 align="center">Foundational & Core Technologies</h3>
-    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
-    </div>
-  </div>
-
   <div style="border: 2px solid #00C7C7; border-radius: 10px; padding: 20px;">
     <h3 align="center">Cyber Security Tools</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
