@@ -39,19 +39,6 @@ Tech I often work with include Python, FastAPI, MERN stack,and PostgreSQL. On th
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
-
-  <div style="border: 2px solid #00C7C7; border-radius: 10px; padding: 20px;">
-    <h3 align="center">Cyber Security Tools</h3>
-    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-        <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-        <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-        <img src="https://img.shields.io/badge/Nmap-008C8C?style=for-the-badge&logo=nmap&color=000000" alt="Nmap" />
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-    </div>
-  </div>
-
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px;">
     <h3 align="center">Full Stack Development</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
@@ -68,6 +55,17 @@ Tech I often work with include Python, FastAPI, MERN stack,and PostgreSQL. On th
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&color=000000" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Architecture-Microservices-6B3FA0?style=for-the-badge" alt="Microservices Architecture" />
+    </div>
+  </div>
+  <div style="border: 2px solid #00C7C7; border-radius: 10px; padding: 20px;">
+    <h3 align="center">Cyber Security Tools</h3>
+    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
+        <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+        <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+        <img src="https://img.shields.io/badge/Nmap-008C8C?style=for-the-badge&logo=nmap&color=000000" alt="Nmap" />
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
     </div>
   </div>
 
