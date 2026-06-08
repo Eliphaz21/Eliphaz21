@@ -45,8 +45,6 @@ Tech I often work with include Python, FastAPI, MERN stack,and PostgreSQL. On th
   <div style="border: 2px solid #14B8A6; border-radius: 10px; padding: 20px;">
     <h3 align="center">Foundational & Core Technologies</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
     </div>
   </div>
 
@@ -65,6 +63,7 @@ Tech I often work with include Python, FastAPI, MERN stack,and PostgreSQL. On th
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px;">
     <h3 align="center">Full Stack Development</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
@@ -100,6 +99,7 @@ Tech I often work with include Python, FastAPI, MERN stack,and PostgreSQL. On th
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&color=000000" alt="Kubernetes" />
+         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
     </div>
   </div>
 
