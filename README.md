@@ -85,15 +85,13 @@ Tech I often work with include Python, FastAPI, MERN stack,and PostgreSQL. On th
 <h3 align="center">AI, Machine Learning & Agentic Systems</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&color=000000" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=000000" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black&color=000000" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&color=000000" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&color=000000" alt="Pandas" />
-<img src="https://img.shields.io/badge/Ollama-ED5C5C?style=for-the-badge&logo=ollama&logoColor=white&color=000000" alt="Ollama" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&color=000000" alt="LangChain" />
 <img src="https://img.shields.io/badge/Architectures-RAG-22F700?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/Techniques-Fine--Tuning-FCC624?style=for-the-badge" alt="Fine-tuning" />
-<img src="https://img.shields.io/badge/Systems-Agentic_AI-00C7C7?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/Techniques-Fine--Tuning-FCC624?style=for-the-badge" alt="Fine-tuning including local language Amharic,afaan oromo" />
+<img src="https://img.shields.io/badge/Systems-Agentic_AI-00C7C7?style=for-the-badge" alt="AI Agents n8n" />
 <img src="https://img.shields.io/badge/Workflow-AI_Automation-FFFFFF?style=for-the-badge" alt="AI Automation" />
 </div>
 </div>
