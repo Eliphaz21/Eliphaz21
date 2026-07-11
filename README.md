@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Yeabsra+(Eliphaz)+%F0%9F%91%8B;Software+Engineer+%7C+AI+Engineer;Full-Stack+Developer+%7C+Security+Researcher;Building+Systems.+Breaking+Them+(Ethically).+Learning+Always." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:38C2FF,100:8B5CF6&height=220&section=header&text=Yeabsra%20(Eliphaz)&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Security%20Researcher&descAlignY=58&descSize=18&descColor=ffffff" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38C2FF&center=true&vCenter=true&width=600&lines=Designing+systems+first%2C+writing+code+second;Breaking+things+(ethically)+to+build+them+stronger;AI+%2B+Full-Stack+%2B+Security+%E2%80%94+one+engineering+mindset" alt="Typing SVG" />
 
 <br/>
 
@@ -41,24 +43,17 @@ I care less about "using a tool" and more about **why a system is designed the w
 
 ---
 
-### 🎯 What I'm Focused On
-
-```
-[ System Design ]     →  Architecting scalable, resilient backends & APIs
-[ AI Engineering  ]   →  Agentic workflows · RAG · fine-tuning · automation
-[ Security         ]  →  Web pentesting · vulnerability research · secure design
-[ Full-Stack        ] →  Shipping complete products, not just prototypes
-```
+### 🔭 Currently Focused On
 
 <img align="right" width="30%" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" style="border-radius: 12px;" />
 
-**Right now, I'm deep in:**
-
-- 🕵️ Sharpening bug hunting & penetration testing skills
-- 🤖 Building AI agents, automation pipelines, and agentic tooling
-- 🏗️ Full-stack development with an emphasis on clean, scalable architecture
-- 🧠 Studying AI security — how adversarial thinking applies to ML systems
-- 🌱 Contributing to open-source projects
+| Area | What I'm Doing |
+|---|---|
+| 🏗️ **System Design** | Architecting scalable, resilient backends & APIs |
+| 🤖 **AI Engineering** | Agentic workflows, RAG pipelines, fine-tuning, automation |
+| 🕵️ **Security** | Web pentesting, vulnerability research, secure-by-design development |
+| 💻 **Full-Stack** | Shipping complete products end-to-end, not just prototypes |
+| 🌱 **Open Source** | Contributing to and building projects in public |
 
 <br/>
 
@@ -119,35 +114,6 @@ I care less about "using a tool" and more about **why a system is designed the w
 
 ---
 
-### 💡 How I Think About Problems
-
-> I don't just ask "does it work?" — I ask "**why is it built this way, and how would it fail?**"
-
-This shows up in how I approach every project:
-
-- **Architecture first.** Before writing code, I think through data flow, failure points, and scale — the same instinct that makes a good pentester good also makes a good system designer good.
-- **Security as a design constraint, not an afterthought.** Secure-by-design isn't a checklist item for me — it shapes how I structure APIs and data models from day one.
-- **AI as an engineering discipline.** I treat agentic systems and fine-tuning the same way I treat backend design: measurable, testable, and built around real constraints — not hype.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=D1LIE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1LIE&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=D1LIE&theme=tokyonight&hide_border=true" />
-
-</div>
-
-> ⚠️ Replace `D1LIE` above with your exact GitHub username if it differs, so the stats cards render correctly.
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
@@ -175,3 +141,5 @@ This shows up in how I approach every project:
 <img src="https://komarev.com/ghpvc/?username=D1LIE&label=Profile+Views&color=38C2FF&style=for-the-badge" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:38C2FF,100:0D1117&height=120&section=footer" />
