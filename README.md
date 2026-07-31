@@ -45,7 +45,7 @@ I care less about "using a tool" and more about **why a system is designed the w
 
 ### Currently Focused On
 
-<img align="right" width="30%" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" style="border-radius: 12px;" />
+
 
 | Area | What I'm Doing |
 |---|---|
