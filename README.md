@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Fullstack%20Developer-38C2FF?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/AI%20%26%20SWE-AI engineer,ML-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/partially working-web%20Pentsing,cyber secuity-22F700?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-web%20Pentsing,cyber secuity-22F700?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
