@@ -6,9 +6,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Software%20Engineering-Student-38C2FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AI%20%26%20SWE-Intern-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-System%20Design-22F700?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Software%20Engineer-38C2FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AI%20%26%20SWE-AI engineer,ML-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-web%20Pentsing,cyber secuity-22F700?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
