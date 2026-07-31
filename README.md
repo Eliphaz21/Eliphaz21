@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:38C2FF,100:8B5CF6&height=220&section=header&text=Yeabsra%20(Eliphaz)&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Security%20Researcher&descAlignY=58&descSize=18&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:38C2FF,100:8B5CF6&height=220&section=header&text=Yeabsra%20(Eliphaz)&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20web penetration%20tester&descAlignY=58&descSize=18&descColor=ffffff" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38C2FF&center=true&vCenter=true&width=600&lines=Designing+systems+first%2C+writing+code+second;Breaking+things+(ethically)+to+build+them+stronger;AI+%2B+Full-Stack+%2B+Security+%E2%80%94+one+engineering+mindset" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Software%20Engineer-38C2FF?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/AI%20%26%20SWE-AI engineer,ML-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-web%20Pentsing,cyber secuity-22F700?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/partially working-web%20Pentsing,cyber secuity-22F700?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
