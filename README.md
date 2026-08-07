@@ -53,6 +53,7 @@ I care less about "using a tool" and more about **why a system is designed the w
 |  **AI Engineering** | Agentic workflows, RAG pipelines, fine-tuning, automation |
 |  **Security** | Web pentesting, vulnerability research, secure-by-design development |
 |  **Full-Stack** | Shipping complete products end-to-end, not just prototypes |
+| **ML,Deep learning** | building projects in Machine learning,deep learning using also transformer,NLP in real produts  |
 | **Open Source** | Contributing to and building projects in public |
 
 <br/>
