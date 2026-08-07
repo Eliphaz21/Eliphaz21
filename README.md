@@ -124,8 +124,6 @@ I care less about "using a tool" and more about **why a system is designed the w
 
 </div>
 
->  Swap in your real email, LinkedIn, and Twitter/X links above.
-
 ---
 
 <div align="center">
